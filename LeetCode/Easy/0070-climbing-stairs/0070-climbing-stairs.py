@@ -3,18 +3,12 @@ class Solution:
         if n <= 2:
             return n
         
-        prev2 = 1
-        prev1 = 2
+        step1 = 1
+        step2 = 2
 
         for _ in range(3, n + 1):
-            curr = prev1 + prev2
-
-            prev2 = prev1
-            prev1 = curr
+            curr = step2 + step1
+            step1 = step2
+            step2 = curr
         
-        return prev1
-
-
-
-
-        
+        return step2
