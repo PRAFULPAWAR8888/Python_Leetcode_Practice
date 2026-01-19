@@ -1,16 +1,13 @@
-from typing import List
-
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+    def groupAnagrams(self, strs):
         groups = {}
 
         for word in strs:
-            # manual frequency key
-            count = [0] * 26
+            freq = [0] * 26
             for ch in word:
-                count[ord(ch) - ord('a')] += 1
+                freq[ord(ch) - 97] += 1
 
-            key = tuple(count)
+            key = tuple(freq)
 
             if key not in groups:
                 groups[key] = []
