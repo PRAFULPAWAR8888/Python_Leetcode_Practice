@@ -4,6 +4,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/master/0013-roman-to-integer) |
 ## Math
 | Problem Name | Difficulty |
@@ -18,4 +19,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
