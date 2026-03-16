@@ -1,11 +1,23 @@
 class Solution:
     def twoSum(self, nums, target):
-        n = len(nums)
 
+        n = len(nums)
         for i in range(n):
+            complement = target - nums[i]
+
             for j in range(i+1,n):
-                if target == nums[i] + nums[j]:
-                    return [i,j]
+                if nums[j] == complement:
+                    return [i , j]
+
+          
+
+   
+
+            
+                
+
+
+        
 
 
 
