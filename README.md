@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/master/0013-roman-to-integer) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@
 | [0125-valid-palindrome](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/3813-vowel-consonant-score/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/3856-trim-trailing-vowels/) | Easy |
