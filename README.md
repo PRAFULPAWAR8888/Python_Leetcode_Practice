@@ -16,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/master/0013-roman-to-integer) |
+| [0598-range-addition-ii](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0598-range-addition-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
+| [0598-range-addition-ii](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0598-range-addition-ii/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
