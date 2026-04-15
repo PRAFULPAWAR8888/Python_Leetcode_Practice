@@ -53,6 +53,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0598-range-addition-ii](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0598-range-addition-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0605-can-place-flowers](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +95,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
