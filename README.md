@@ -60,6 +60,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0661-image-smoother](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0661-image-smoother/) | Easy |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0674-longest-continuous-increasing-subsequence/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
