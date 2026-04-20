@@ -8,7 +8,7 @@ class Solution:
 
         for i in range(len(nums)-1):
 
-            if nums[i] > nums[i -1]:
+            if nums[i] < nums[i + 1]:
                 curr_len += 1
                 max_len = max(max_len, curr_len)
             
