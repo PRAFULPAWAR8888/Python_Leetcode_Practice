@@ -3,16 +3,17 @@ class Solution:
         if not nums:
             return 0
         
+        max_len = 1
+        curr_len = 1
 
-        curr = 1
-        best = 1
+        for i in range(len(nums)-1):
 
-        for i in range(len(nums)  - 1):
-            if nums[i] < nums[i + 1]:
-                curr += 1
-                best = max(best, curr)
+            if nums[i] > nums[i -1]:
+                curr_len += 1
+                max_len = max(max_len, curr_len)
+            
             else:
-                curr = 1
+                curr_len = 1
         
-        return best
+        return max_len
         
