@@ -13,6 +13,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0645-set-mismatch](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0697-degree-of-an-array](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0697-degree-of-an-array/) | Easy |
+| [0705-design-hashset](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Math
@@ -65,10 +66,12 @@
 | [0682-baseball-game](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0705-design-hashset](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0705-design-hashset](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,4 +133,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
