@@ -71,6 +71,7 @@
 | [0706-design-hashmap](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0724-find-pivot-index](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
+| [0733-flood-fill](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0661-image-smoother](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0661-image-smoother/) | Easy |
+| [0733-flood-fill](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,4 +154,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0733-flood-fill](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0733-flood-fill](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 <!---LeetCode Topics End-->
