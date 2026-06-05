@@ -11,7 +11,5 @@ class Solution:
 
                 if result is None or len(word) < len(result):
                     result = word
-        
-        return result
 
-        
+        return result
