@@ -16,6 +16,7 @@
 | [0697-degree-of-an-array](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0697-degree-of-an-array/) | Easy |
 | [0705-design-hashset](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
+| [0748-shortest-completing-word](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0748-shortest-completing-word/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Math
@@ -42,6 +43,7 @@
 | [0389-find-the-difference](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0748-shortest-completing-word](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0748-shortest-completing-word/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/3813-vowel-consonant-score/) | Easy |
@@ -82,6 +84,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0748-shortest-completing-word](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0748-shortest-completing-word/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
