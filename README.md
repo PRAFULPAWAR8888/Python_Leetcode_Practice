@@ -18,6 +18,7 @@
 | [0705-design-hashset](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [0748-shortest-completing-word](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0748-shortest-completing-word/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0804-unique-morse-code-words/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Math
@@ -46,6 +47,7 @@
 | [0409-longest-palindrome](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0748-shortest-completing-word](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0748-shortest-completing-word/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0804-unique-morse-code-words/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/3813-vowel-consonant-score/) | Easy |
@@ -89,6 +91,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0748-shortest-completing-word](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0748-shortest-completing-word/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0766-toeplitz-matrix/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0804-unique-morse-code-words/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
