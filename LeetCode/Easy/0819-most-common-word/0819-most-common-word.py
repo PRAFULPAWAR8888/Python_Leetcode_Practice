@@ -1,24 +1,22 @@
-from collections import Counter
-import re
-
 class Solution:
     def mostCommonWord(self, paragraph: str, banned: list[str]) -> str:
+        banned_set = set(banned)
 
-        paragraph = paragraph.lower()
+        # Manually clean: replace non-alpha chars with space
+        cleaned = ""
+        for ch in paragraph:
+            if ch.isalpha():
+                cleaned += ch.lower()
+            else:
+                cleaned += " "
 
-        # replace punctuation with space
-        paragraph = re.sub(r"[^\w\s]", " ", paragraph)
+        words = cleaned.split()
 
-        words = paragraph.split()
-
-        banned = set(banned)
-
-        filtered_words = []
-
+        # Count manually
+        freq = {}
         for word in words:
-            if word not in banned:
-                filtered_words.append(word)
+            if word not in banned_set:
+                freq[word] = freq.get(word, 0) + 1
 
-        frequency = Counter(filtered_words)
-
-        return frequency.most_common(1)[0][0]
+        # Find max
+        return max(freq, key=freq.get)
