@@ -58,6 +58,7 @@
 | [0804-unique-morse-code-words](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0821-shortest-distance-to-a-character/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/3813-vowel-consonant-score/) | Easy |
@@ -73,6 +74,7 @@
 | [0344-reverse-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0821-shortest-distance-to-a-character/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -109,6 +111,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0806-number-of-lines-to-write-string/) | Easy |
 | [0812-largest-triangle-area](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0812-largest-triangle-area/) | Easy |
 | [0819-most-common-word](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0821-shortest-distance-to-a-character/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
