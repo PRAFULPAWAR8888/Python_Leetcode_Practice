@@ -75,6 +75,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0821-shortest-distance-to-a-character/) | Easy |
+| [0832-flipping-an-image](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -112,6 +113,7 @@
 | [0812-largest-triangle-area](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0812-largest-triangle-area/) | Easy |
 | [0819-most-common-word](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0821-shortest-distance-to-a-character/) | Easy |
+| [0832-flipping-an-image](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -156,6 +158,7 @@
 | [0412-fizz-buzz](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0682-baseball-game](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
+| [0832-flipping-an-image](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3813-vowel-consonant-score](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/3813-vowel-consonant-score/) | Easy |
 ## Sorting
@@ -184,12 +187,14 @@
 | [0389-find-the-difference](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0645-set-mismatch](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [0832-flipping-an-image](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0661-image-smoother](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0661-image-smoother/) | Easy |
 | [0733-flood-fill](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0766-toeplitz-matrix/) | Easy |
+| [0832-flipping-an-image](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
