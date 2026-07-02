@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
@@ -25,6 +26,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
@@ -41,6 +43,7 @@
 | [0005-longest-palindromic-substring](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
+| [0012-integer-to-roman](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
