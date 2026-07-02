@@ -1,6 +1,7 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        i, n = 0, len(s)
+        i = 0 
+        n = len(s)
         INT_MIN , INT_MAX = -2**31 , 2**31 - 1
 
         #1. Skip leading whitespace
