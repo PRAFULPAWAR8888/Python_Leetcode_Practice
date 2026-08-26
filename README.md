@@ -34,6 +34,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
+| [0509-fibonacci-number](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0598-range-addition-ii](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0812-largest-triangle-area/) | Easy |
@@ -137,6 +138,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0326-power-of-three](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
+| [0509-fibonacci-number](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -261,4 +264,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/PRAFULPAWAR8888/Python_Leetcode_Practice/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
